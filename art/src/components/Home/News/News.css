@@ -1,0 +1,116 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+.news{
+    position: absolute;
+    margin-top: 5300px;
+}
+
+.newgori{
+    display: flex;
+    
+}
+.newimage1{
+    margin-left: 140px;
+    border-radius: 40px 40px 0px 0px ;
+}
+.newimage2{
+    margin-left: 90px;
+}
+.newimage3{
+    margin-left: 130px;
+}
+.arc{
+    margin-top: -250px;
+    position: absolute;
+    margin-left: 600px;
+    font-family: DM Serif Display;
+font-size: 50px;
+font-weight: 400;
+line-height: 62.5px;
+letter-spacing: 0.02em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.arctext{
+    margin-top: -150px;
+    position: absolute;
+    margin-left: 390px;
+    font-family: Jost;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0.01em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #4D5053;
+
+}
+.arcp{
+    font-family: DM Serif Display;
+font-size: 25px;
+font-weight: 400;
+line-height: 31.25px;
+letter-spacing: 0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 135px;
+}
+
+.arcp1{
+    font-family: DM Serif Display;
+font-size: 25px;
+font-weight: 400;
+line-height: 31.25px;
+letter-spacing: 0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 90px;
+}
+.arcp2{
+    font-family: DM Serif Display;
+font-size: 25px;
+font-weight: 400;
+line-height: 31.25px;
+letter-spacing: 0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 130px;
+}
+
+.arcdata{
+    margin-left: 134px;
+    margin-top: 50px;
+}
+.arcdata1{
+    margin-left: 90px;
+    margin-top: 50px;
+    
+}
+.arcdata2{
+    margin-left: 134px;
+    margin-top: 50px;
+
+}
+
+.arcbtn{
+    position: absolute;
+    margin-left: 460px;
+    margin-top: -20px;
+    width: 40px;height: 40px;
+    border-radius: 50%;
+}
+.arcbtn1{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -20px;
+    width: 40px;height: 40px;
+    border-radius: 50%;
+}

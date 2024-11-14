@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.posi{
+    position: absolute;
+    margin: 2600px 250px;
+    
+   
+    
+    
+    
+    
+}
+
+.a{
+    position: absolute;
+
+    margin-right: 1000px;
+}
+.b{
+    position: absolute;
+
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.c{
+    position: absolute;
+
+    margin-left: 650px;
+}
+.d{
+    position: absolute;
+
+    margin-left: 200px;
+}
+.e{
+    position: absolute;
+
+    margin-left: 900px;
+}
+

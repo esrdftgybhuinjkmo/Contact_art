@@ -1,0 +1,116 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+.kichan{
+    position: absolute;
+    margin-top: 3000px;
+   
+    
+}
+
+.room{
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+.kicha{
+    margin-left: 90px;
+    margin-bottom: 100px;
+}
+.table{
+    margin-left: 90px;
+}
+.window{
+    margin-left: 196px;
+    
+    
+}
+.two{
+    display: flex   ;
+}
+.four{
+    display: flex   ;
+    margin-top: 100px;
+   
+
+}
+
+
+.mo{
+    margin-top: -100px;
+    margin-left: 90px;
+}
+.de{
+    margin-top: -100px;
+    margin-left: 200px;
+}
+.rn{
+    
+    margin-left: 90px;
+}
+.ki{
+    margin-left: 210px;
+}
+.text{
+    font-family: DM Serif Display;
+font-size: 25px;
+font-weight: 400;
+line-height: 31.25px;
+letter-spacing: 0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.chen{
+    margin-left: 100px;
+}
+.cheno{
+    margin-left: 230px;
+}
+
+.arrow{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: -40px;
+    width: 50px;height: 50px;
+    border-radius: 50%;
+}
+.arrowe{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -40px;
+    width: 50px;height: 50px;
+    border-radius: 50%;
+}
+#project{
+    
+  margin-top: -250px;
+    position: absolute;
+    margin-left: 500px;
+    font-family: DM Serif Display;
+font-size: 50px;
+font-weight: 400;
+line-height: 62.5px;
+letter-spacing: 0.02em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+#long{
+    margin-top: -150px;
+    position: absolute;
+    margin-left:400px;
+    font-family: Jost;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0.01em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #4D5053;
+
+
+}
